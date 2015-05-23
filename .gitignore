@@ -1,0 +1,12 @@
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+eggs
+sdist
+develop-eggs
+.installed.cfg
+.coverage
+.tox
